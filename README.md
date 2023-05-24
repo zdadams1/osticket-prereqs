@@ -18,7 +18,8 @@ This guide outlines the prerequisites and installation of the help desk ticketin
 <h2>List of Prerequisites</h2>
 
 - Create an Azure Virtual Machine Windows 10, 4 vCPUs
-    //link to azure & steps to make a vm on win10 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    https://portal.azure.com/
+    Microsoft Azure Documentation: https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal
     Name: Vm-osticket
     Username: labuser (your choice)
     Password: osTicketPassword1! (your choice)
