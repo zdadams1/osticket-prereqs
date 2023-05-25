@@ -79,5 +79,5 @@ This guide outlines the prerequisites and installation of the help desk ticketin
   - Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
   - End Users osTicket URL: http://localhost/osTicket/ 
 
-<a href="https://github.com/zdadams1/post-install-config/edit/main/README.md">Post Installation Setup Guide</a>
+<a href="https://github.com/zdadams1/post-install-config">Post Installation Setup Guide</a>
 
