@@ -57,6 +57,7 @@ This guide outlines the prerequisites and installation of the help desk ticketin
     -Enable: php_intl.dll
     -Enable: php_opcache.dll
     -Refresh the osTicket site in your browse, observe the changes
+    <img src="https://i.imgur.com/xusR9m3.png" alt="osTicket logo"/>
   - Rename: ost-config.php
      From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
      To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
@@ -66,9 +67,11 @@ This guide outlines the prerequisites and installation of the help desk ticketin
   - Continue Setting up osTicket in the browser (click Continue)
      Name Helpdesk
      Default email (receives email from customers)
+     <img src="https://i.imgur.com/oAE6ody.png" alt="osTicket logo"/>
   - Download & Install HeidiSQL https://www.heidisql.com/download.php
      Open Heidi SQL
      Create a new session, root/Password1
+     <img src="https://i.imgur.com/zSkHti3.png" alt="osTicket logo"/>
      Connect to the session
      Create a database called “osTicket”
   - Continue Setting up osticket in the browser
